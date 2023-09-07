@@ -11,7 +11,7 @@
         flex-wrap: nowrap;
         align-items: flex-start;
         flex-direction: column;
-        background-image: url(./picture/img.jpg);
+        background-image: url(./picture/img.png);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -89,7 +89,10 @@
     background-image:url(./picture/game1.png);
   }
   &__content_img2{
-    background-image:url(./picture/game2.png):
+    background-image:url(./picture/game2.png);
+  }
+  &__content_img3{
+    background-image:url(./picture/game3.png);
   }
 }
 .item_text{
