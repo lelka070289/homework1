@@ -1,9 +1,9 @@
 //Задание №1
 
-let a=Number(10);
-alert(a);
+let c=Number(10);
+alert(c);
 a=Number(20);
-alert(a)
+alert(c)
 
 //Задание №2
 
@@ -16,14 +16,14 @@ alert(`Имя создателя языка JS: ${autorJs}`);
 
 //Задание №4
 let d=Number(10);
-let b=Number(2);
+let f=Number(2);
 let sum=(d+c);
 alert(`Сумма: ${sum}`);
-let difference=(d-b);
+let difference=(d-f);
 alert (`Разность: &{difference}`);
-let multiplication=(d*b);
+let multiplication=(d*f);
 alert(`Умножение: ${multiplication}`);
-let division=(d/b);
+let division=(d/f);
 alert (`деление: ${divisio}`);
 
 //Задание №5
